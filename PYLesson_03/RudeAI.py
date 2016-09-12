@@ -1,0 +1,8 @@
+print (" Hi, my name is RudeAi. I'd Like to ask you a few question")
+input ("What is your name?")
+input ("Well that's a really weird name!! How old are you?")
+input ("dang! if you take one more step you'll be at the grave. what do you do for fun?")
+input (" i thought only nerd wrote code. What music do you like?")
+input (" Why would you punish your ears with that terrible sound?! How many siblings do you have?")
+input (" Wow two more of you?! I feel bad for your parents!! what do you want to be when you grow up?")
+input ("Wow that's a pretty boring job.")
